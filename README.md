@@ -1,4 +1,4 @@
-# Animation-Lottie
+# Animation Lottie
 The Animation for login.
 
 Image  Animation:
